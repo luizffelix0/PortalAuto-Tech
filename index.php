@@ -25,11 +25,11 @@
     <!-- =========================   MENU   ========================== -->
     <nav class="menu">
         <a href="Index.php">Início</a>
-        <a href="Ferramentas/Calculadora-Orcamento.php">Orçamento</a>
-        <a href="Ferramentas/Troca-Pneus.php">Pneus</a>
-        <a href="Ferramentas/Calculadora-Combustivel.php">Combustível</a>
-        <a href="Ferramentas/Avaliador-Manutenção.php">Serviço</a>
-        <a href="Ferramentas/Simulador-Viagem.php">Viagem</a>
+        <a href="ferramentas/Calculadora-Orcamento.php">Orçamento</a>
+        <a href="ferramentas/Troca-Pneus.php">Pneus</a>
+        <a href="ferramentas/Calculadora-Combustivel.php">Combustível</a>
+        <a href="ferramentas/Avaliador-Manutenção.php">Serviço</a>
+        <a href="ferramentas/Simulador-Viagem.php">Viagem</a>
     </nav>
 
     <!-- =========================  FERRAMENTAS  ========================== -->
