@@ -24,7 +24,7 @@
 
     <!-- =========================   MENU   ========================== -->
     <nav class="menu">
-        <a href="Index.php">Início</a>
+        <a href="index.php">Início</a>
         <a href="ferramentas/Calculadora-Orcamento.php">Orçamento</a>
         <a href="ferramentas/Troca-Pneus.php">Pneus</a>
         <a href="ferramentas/Calculadora-Combustivel.php">Combustível</a>
